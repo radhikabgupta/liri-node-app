@@ -20,5 +20,6 @@ LIRI is like iPhone's SIRI. LIRI will be a command line node app that takes in p
 
 - do-what-it-says
 <br/>command: node liri spotify-this-song
+<br/>Liri reads from the random.txt file for command and search (if applicable)
 
 ### In addition to logging the data to terminal/bash window, the command anb output are added to the log.txt.
