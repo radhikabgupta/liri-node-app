@@ -1,7 +1,10 @@
 # LIRI-Bot
 LIRI is like iPhone's SIRI. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-### Used with Twitter, Spotify and OMDB APIs.
+### APIs Utilized in the application
+- Twitter, 
+- Spotify and 
+- OMDB APIs.
 
 ## liri.js can take in one of the following commands:
 
