@@ -25,4 +25,4 @@ LIRI is like iPhone's SIRI. LIRI will be a command line node app that takes in p
 ### In addition to logging the data to terminal/bash window, the command anb output are added to the log.txt.
 
 ## Assignment Instructions
-[Week-10 Assignment Instructions](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GTATL201802FSF1-Class-Repository-FSF/blob/master/01-class-content/10-nodejs/02-Homework/Instructions/homework_instructions.md)
+[Week-10 Assignment Instructions](https://github.com/radhikabgupta/liri-node-app/blob/master/week_10_homework_instructions.md)
