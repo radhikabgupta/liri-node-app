@@ -1,4 +1,4 @@
-# LIRI Bot
+# LIRI Bot - Homework Instructions - Week 10
 
 ### Overview
 
