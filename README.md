@@ -23,7 +23,8 @@ LIRI is like iPhone's SIRI. LIRI will be a command line node app that takes in p
 
 4. do-what-it-says
 <br/>command: node liri do-what-it-says
-<br/>Liri reads from the random.txt file for command and(if applicable)
+<br/>Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+<br/>It should run spotify-this-song for "I Want it That Way."
 ![node liri do-what-it-says](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/node_liri_do_what_it_says.jpg)
 
 ### In addition to logging the data to terminal/bash window, the command anb output are added to the log.txt.
