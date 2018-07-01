@@ -27,7 +27,5 @@ LIRI is like iPhone's SIRI. LIRI will be a command line node app that takes in p
 <br/>It should run spotify-this-song for "I Want it That Way."
 ![node liri do-what-it-says](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/node_liri_do_what_it_says.jpg)
 
-### In addition to logging the data to terminal/bash window, the command anb output are added to the log.txt.
-
-## Assignment Instructions
-[Week-10 Assignment Instructions](https://github.com/radhikabgupta/liri-node-app/blob/master/week_10_homework_instructions.md)
+## Log 
+In addition to logging the data to terminal/bash window, the command output are appended to the log.txt.
